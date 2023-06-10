@@ -1,10 +1,21 @@
-# Hello World!, Eduardo here 👽
+                                                    
+<h1 align="center" >Hi, Welcome to my Github space </h2>
 
-I am a young programmer with a passion for the mobile world, looking for a job.
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg" alt="made in BR">
+</a>
 
+- I am an Android developer
+- I can program in kotlin, java, dart, c++ and javascript
+- At the moment, I am concentrating on content related to the Android framework and flutter, as I intend to become a great expert in this area.
+- I am looking for study and development groups related to the mobile world
+- I am crazy about animes, comics and fiction movies 
+- Favorite hero? iron man absolutely
 
-at the moment i'm focusing on content related to the android framework and flutter, as i intend to become a great expert in these subjects.
+***"Everything in our lives is our absolute responsibility"*** 
 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=du4r&layout=donut&langs_count=7&theme=tokyonight"/>
+ 
 ![This is a alt text.](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android logo")
 ![This is a alt text.](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white "android studio logo")
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -15,7 +26,6 @@ at the moment i'm focusing on content related to the android framework and flutt
 ![This is a alt text.](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter logo")
 ![This is a alt text.](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white "sqlite logo")
 ![This is a alt text.](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "github logo")
-
 
 
 <!--
