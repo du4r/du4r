@@ -4,6 +4,7 @@
 <a href="https://github.com/pedromxavier/flag-badges">
     <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg" alt="made in BR">
 </a>
+<br></br>
 
 - I am an Android developer
 - I can program in kotlin, java, dart, c++ and javascript
