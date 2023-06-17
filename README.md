@@ -1,5 +1,5 @@
                                                     
-<h1 align="center" >Hi, Welcome to my Github space </h2>
+<h1 align="center" >Hi, Welcome to my Github Space </h2>
 
 <a href="https://github.com/pedromxavier/flag-badges">
     <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg" alt="made in BR">
@@ -11,7 +11,7 @@
 - At the moment, I am concentrating on content related to the Android framework and flutter, as I intend to become a great expert in this area.
 - I am looking for study and development groups related to the mobile world
 - I am crazy about animes, comics and fiction movies 
-- Favorite hero? iron man absolutely
+
 
 ***"Everything in our lives is our absolute responsibility"*** 
 
