@@ -9,7 +9,7 @@
 
  I am an Android Engineer
   
-- knowledge and interest: kotlin, java, dart, c++ and javascript
+- knowledge and interest in kotlin, java, dart, c++ and javascript
 - At the moment, I am concentrating on content related to the Android framework and flutter, as I intend to become a great expert in this area.
 - I am looking for study and development groups related to the mobile world
 
