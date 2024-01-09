@@ -7,7 +7,7 @@
 <br></br>
 
 
- I am Mobile Engineer
+  Software Engineer
   
 - knowledge and interest in kotlin, java, dart, c++ and javascript
 - At the moment, I am concentrating on content related to the Android framework and flutter, as I intend to become a great expert in this area.
