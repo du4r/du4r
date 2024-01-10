@@ -36,4 +36,4 @@
 
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=du4r&layout=donut&langs_count=7&theme=tokyonight"/>
-***"Everything in our lives is our absolute responsibility"*** 
+
