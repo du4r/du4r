@@ -1,5 +1,5 @@
                                                     
-<h1 align="center" >Hi, I'm  Eduardo, Welcome to my Github Space :rocket: </h2>
+<h1 align="center" >Hi, Welcome to my Github Space :rocket: </h2>
 
 <a href="https://github.com/pedromxavier/flag-badges">
     <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg" alt="made in BR">
@@ -7,7 +7,7 @@
 <br></br>
 
 
-  Software Engineer
+  ## I'm Eduardo, Software Engineer
   
 - knowledge and interest in kotlin, java, dart, c++ and javascript
 - At the moment, I am concentrating on content related to the Android framework and flutter, as I intend to become a great expert in this area.
