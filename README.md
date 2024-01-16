@@ -7,7 +7,7 @@
 <br></br>
 
 
-  ## My name is Eduardo Araújo, i am Software Engineer | Kotlin | Java | Android | Spring |
+  ### My name is Eduardo Araújo, i am Software Engineer | Kotlin | Java | Android | Spring |
 
   
 - knowledge and interest in kotlin, java, dart, c++ and javascript
