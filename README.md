@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg" alt="made in BR">
 </a>
 
-   ## I'm Eduardo, a developer developing himself 
+   ## I'm Eduardo, Software developer 
   
 👉🏾 <strong> Knowledge and interest in kotlin, java, dart, c++ and javascript </strong>
 
