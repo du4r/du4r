@@ -9,7 +9,7 @@
   
 👉🏾 <strong> Knowledge and interest in kotlin, java, dart, c++ and javascript </strong>
 
-👉🏾 <strong> I'm looking for study and development groups related to the mobile world & backend word </strong>
+👉🏾 <strong> I'm looking for study groups in computing, development and engineering </strong>
 
 
 ## Some Tools and Skills: 
