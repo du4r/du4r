@@ -30,7 +30,7 @@
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=du4r&show_icons=true&theme=onedark">
 
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=du4r&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=taozhi8833998&theme=github">
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=du4r&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=du4r&theme=onedark" />
 </div>
 
