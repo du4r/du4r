@@ -35,4 +35,4 @@
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/du4r/du4r/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/du4r/du4r/output/github-contribution-grid-snake.svg)
